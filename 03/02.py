@@ -1,0 +1,5 @@
+L = input('Enter list of values:').split()
+print(L)
+print(len(L))
+print(L[0])
+print(L[3])
